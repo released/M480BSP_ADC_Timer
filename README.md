@@ -12,27 +12,27 @@ udpate @ 2024/07/02
 4. below is trigger ADC by regulator IRQ , when NOT enable : ENABLE_ADC_TRIG_BY_TIMER
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_cvt.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_cvt.jpg)
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_cvt_3V3.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_cvt_3V3.jpg)
 
 
 5. below is trigger ADC by timer3 , set compare vaule to 36 
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_timer_36.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_timer_36.jpg)
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_timer_36_3V3.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_timer_36_3V3.jpg)
 
 
 
 6. below is trigger ADC by timer3 , set compare vaule to 5 
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_timer_5.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_timer_5.jpg)
 
 
-![image](https://github.com/released/M480BSP_ADC_Timer/main/adc_trig_by_timer_5_3V3.jpg)
+![image](https://github.com/released/M480BSP_ADC_Timer/blob/main/adc_trig_by_timer_5_3V3.jpg)
 
